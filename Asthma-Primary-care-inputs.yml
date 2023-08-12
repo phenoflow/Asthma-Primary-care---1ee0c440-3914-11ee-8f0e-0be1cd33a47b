@@ -1,0 +1,450 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/asthma-primary-care-selfmanagement---primary.py
+inputModule3:
+  class: File
+  path: python/asthma-primary-care-question---primary.py
+inputModule4:
+  class: File
+  path: python/annual-asthma-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/specialist-asthma-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/asthma-primary-care-discuss---primary.py
+inputModule7:
+  class: File
+  path: python/asthma-primary-care-three---primary.py
+inputModule8:
+  class: File
+  path: python/asthma-primary-care-administration---primary.py
+inputModule9:
+  class: File
+  path: python/seasonal-asthma-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/pollen-asthma-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/asthma-primary-care-nighttime---primary.py
+inputModule12:
+  class: File
+  path: python/weekly-asthma-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/asthma-primary-care-respiratory---primary.py
+inputModule14:
+  class: File
+  path: python/asthma-primary-care-medication---primary.py
+inputModule15:
+  class: File
+  path: python/asthma-primary-care-exercise---primary.py
+inputModule16:
+  class: File
+  path: python/asthma-primary-care-stair---primary.py
+inputModule17:
+  class: File
+  path: python/animal-asthma-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/asthma-primary-care-score---primary.py
+inputModule19:
+  class: File
+  path: python/asthma-primary-care-airborne---primary.py
+inputModule20:
+  class: File
+  path: python/asthma-primary-care-trigger---primary.py
+inputModule21:
+  class: File
+  path: python/asthma-primary-care-emotion---primary.py
+inputModule22:
+  class: File
+  path: python/asthma-primary-care-smoke---primary.py
+inputModule23:
+  class: File
+  path: python/asthma-primary-care-daytime---primary.py
+inputModule24:
+  class: File
+  path: python/active-asthma-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/asthma-primary-care-agreed---primary.py
+inputModule26:
+  class: File
+  path: python/asthma-primary-care-obstruction---primary.py
+inputModule27:
+  class: File
+  path: python/asthma-primary-care-school---primary.py
+inputModule28:
+  class: File
+  path: python/asthma-primary-care-confirmed---primary.py
+inputModule29:
+  class: File
+  path: python/asthma-primary-care-refuses---primary.py
+inputModule30:
+  class: File
+  path: python/asthma-primary-care-excepted---primary.py
+inputModule31:
+  class: File
+  path: python/asthma-primary-care-childhood---primary.py
+inputModule32:
+  class: File
+  path: python/asthma-primary-care-onset---primary.py
+inputModule33:
+  class: File
+  path: python/asthma-primary-care-severity---primary.py
+inputModule34:
+  class: File
+  path: python/moderate-asthma-primary-care---primary.py
+inputModule35:
+  class: File
+  path: python/asthma-primary-care---primary.py
+inputModule36:
+  class: File
+  path: python/asthma-primary-care-disturbing---primary.py
+inputModule37:
+  class: File
+  path: python/asthma-primary-care-limiting---primary.py
+inputModule38:
+  class: File
+  path: python/asthma-primary-care-followup---primary.py
+inputModule39:
+  class: File
+  path: python/extrinsic-asthma-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/asthma-primary-care-fever---primary.py
+inputModule41:
+  class: File
+  path: python/bronchial-asthma-primary-care---primary.py
+inputModule42:
+  class: File
+  path: python/asthma-primary-care-adminno---primary.py
+inputModule43:
+  class: File
+  path: python/asthma-primary-care-control---primary.py
+inputModule44:
+  class: File
+  path: python/asthma-primary-care-monitor---primary.py
+inputModule45:
+  class: File
+  path: python/asthma-primary-care-attack---primary.py
+inputModule46:
+  class: File
+  path: python/acute-asthma-primary-care---primary.py
+inputModule47:
+  class: File
+  path: python/asthma-primary-care-indicator---primary.py
+inputModule48:
+  class: File
+  path: python/clinical-asthma-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/asthma-primary-care-nurse---primary.py
+inputModule50:
+  class: File
+  path: python/asthma-primary-care-satisfactory---primary.py
+inputModule51:
+  class: File
+  path: python/asthma-primary-care-check---primary.py
+inputModule52:
+  class: File
+  path: python/allergic-asthma-primary-care---primary.py
+inputModule53:
+  class: File
+  path: python/occupational-asthma-primary-care---primary.py
+inputModule54:
+  class: File
+  path: python/severe-asthma-primary-care---primary.py
+inputModule55:
+  class: File
+  path: python/asthma-primary-care-appointment---primary.py
+inputModule56:
+  class: File
+  path: python/asthma-primary-care-prevent---primary.py
+inputModule57:
+  class: File
+  path: python/asthma-primary-care-restricts---primary.py
+inputModule58:
+  class: File
+  path: python/asthma-primary-care-monitored---primary.py
+inputModule59:
+  class: File
+  path: python/mixed-asthma-primary-care---primary.py
+inputModule60:
+  class: File
+  path: python/asthma-primary-care-education---primary.py
+inputModule61:
+  class: File
+  path: python/asthma-primary-care-never---primary.py
+inputModule62:
+  class: File
+  path: python/intrinsic-asthma-primary-care---primary.py
+inputModule63:
+  class: File
+  path: python/asthma-primary-care-attendance---primary.py
+inputModule64:
+  class: File
+  path: python/asthma-primary-care-doctor---primary.py
+inputModule65:
+  class: File
+  path: python/occasional-asthma-primary-care---primary.py
+inputModule66:
+  class: File
+  path: python/asthma-primary-care-leaflet---primary.py
+inputModule67:
+  class: File
+  path: python/asthma-primary-care-theophylline---primary.py
+inputModule68:
+  class: File
+  path: python/asthma-primary-care-brittle---primary.py
+inputModule69:
+  class: File
+  path: python/asthma-primary-care-action---primary.py
+inputModule70:
+  class: File
+  path: python/aspirin-asthma-primary-care---primary.py
+inputModule71:
+  class: File
+  path: python/asthma-primary-care-unspecified---primary.py
+inputModule72:
+  class: File
+  path: python/asthma-primary-care-induced---primary.py
+inputModule73:
+  class: File
+  path: python/asthma-primary-care-attends---primary.py
+inputModule74:
+  class: File
+  path: python/asthma-primary-care-visit---primary.py
+inputModule75:
+  class: File
+  path: python/detergent-asthma-primary-care---primary.py
+inputModule76:
+  class: File
+  path: python/asthma-primary-care-wheeze---primary.py
+inputModule77:
+  class: File
+  path: python/asthma-primary-care-study---primary.py
+inputModule78:
+  class: File
+  path: python/asthma-primary-care-bronchitis---primary.py
+inputModule79:
+  class: File
+  path: python/asthma-primary-care-admission---primary.py
+inputModule80:
+  class: File
+  path: python/asthma---primary.py
+inputModule81:
+  class: File
+  path: python/prophylactic-asthma-primary-care---primary.py
+inputModule82:
+  class: File
+  path: python/asthma-primary-care-aggravated---primary.py
+inputModule83:
+  class: File
+  path: python/asthma-primary-care-given---primary.py
+inputModule84:
+  class: File
+  path: python/asthma-primary-care-exacerbation---primary.py
+inputModule85:
+  class: File
+  path: python/asthma-primary-care-outreach---primary.py
+inputModule86:
+  class: File
+  path: python/asthma-primary-care-sequoiosis---primary.py
+inputModule87:
+  class: File
+  path: python/asthma-primary-care-colleg---primary.py
+inputModule88:
+  class: File
+  path: python/asthma-primary-care-exerciseinduced---primary.py
+inputModule89:
+  class: File
+  path: python/asthma-primary-care-telehealth---primary.py
+inputModule90:
+  class: File
+  path: python/asthma-primary-care-steps---primary.py
+inputModule91:
+  class: File
+  path: python/asthma-primary-care-monitorng---primary.py
+inputModule92:
+  class: File
+  path: python/asthma-primary-care-invit---primary.py
+inputModule93:
+  class: File
+  path: python/asthma-primary-care-status---primary.py
+inputModule94:
+  class: File
+  path: python/asthma-primary-care-extrin---primary.py
+inputModule95:
+  class: File
+  path: python/asthma-primary-care-intrin---primary.py
+inputModule96:
+  class: File
+  path: python/asthma-primary-care-necno---primary.py
+inputModule97:
+  class: File
+  path: python/nonallergic-asthma-primary-care---primary.py
+inputModule98:
+  class: File
+  path: python/asthma-primary-care-druginduced---primary.py
+inputModule99:
+  class: File
+  path: python/asthma-primary-care-polyp---primary.py
+inputModule100:
+  class: File
+  path: python/asthma-primary-care-baker---primary.py
+inputModule101:
+  class: File
+  path: python/asthma-primary-care-colophony---primary.py
+inputModule102:
+  class: File
+  path: python/asthma-primary-care-worker---primary.py
+inputModule103:
+  class: File
+  path: python/asthma-primary-care-sulphiteinduced---primary.py
+inputModule104:
+  class: File
+  path: python/asthma-primary-care-asthmaticus---primary.py
+inputModule105:
+  class: File
+  path: python/asthma-primary-care-eosinophilia---primary.py
+inputModule106:
+  class: File
+  path: python/asthma-primary-care-atopy---primary.py
+inputModule107:
+  class: File
+  path: python/recent-asthma-primary-care---primary.py
+inputModule108:
+  class: File
+  path: python/asthma-primary-care-dormant---primary.py
+inputModule109:
+  class: File
+  path: python/asthma-primary-care-attend---primary.py
+inputModule110:
+  class: File
+  path: python/asthma-primary-care-unsatisfactory---primary.py
+inputModule111:
+  class: File
+  path: python/asthma-primary-care-walking---primary.py
+inputModule112:
+  class: File
+  path: python/asthma-primary-care-number---primary.py
+inputModule113:
+  class: File
+  path: python/asthma-primary-care-finding---primary.py
+inputModule114:
+  class: File
+  path: python/asthma-primary-care-aspirininduced---primary.py
+inputModule115:
+  class: File
+  path: python/asthma-primary-care-airflow---primary.py
+inputModule116:
+  class: File
+  path: python/nocturnal-asthma-primary-care---primary.py
+inputModule117:
+  class: File
+  path: python/asthma-primary-care-quality---primary.py
+inputModule118:
+  class: File
+  path: python/asthma-primary-care-limits---primary.py
+inputModule119:
+  class: File
+  path: python/asthma-primary-care-perfume---primary.py
+inputModule120:
+  class: File
+  path: python/obstructive-asthma-primary-care---primary.py
+inputModule121:
+  class: File
+  path: python/asthma-primary-care-subject---primary.py
+inputModule122:
+  class: File
+  path: python/asthma-primary-care-messge---primary.py
+inputModule123:
+  class: File
+  path: python/asthma-primary-care-email---primary.py
+inputModule124:
+  class: File
+  path: python/asthma-primary-care-syndrom---primary.py
+inputModule125:
+  class: File
+  path: python/asthma-primary-care-assessment---primary.py
+inputModule126:
+  class: File
+  path: python/asthma-primary-care-threatening---primary.py
+inputModule127:
+  class: File
+  path: python/asthma-primary-care-diary---primary.py
+inputModule128:
+  class: File
+  path: python/aspirinsensitive-asthma-primary-care---primary.py
+inputModule129:
+  class: File
+  path: python/asthma-primary-care-resolved---primary.py
+inputModule130:
+  class: File
+  path: python/asthma-primary-care-selfmanage---primary.py
+inputModule131:
+  class: File
+  path: python/asthma-primary-care-activit---primary.py
+inputModule132:
+  class: File
+  path: python/asthma-primary-care-admin---primary.py
+inputModule133:
+  class: File
+  path: python/asthma-primary-care-restrct---primary.py
+inputModule134:
+  class: File
+  path: python/asthma-primary-care-satisfac---primary.py
+inputModule135:
+  class: File
+  path: python/asthma-primary-care-unsatisf---primary.py
+inputModule136:
+  class: File
+  path: python/asthma-primary-care-symptm---primary.py
+inputModule137:
+  class: File
+  path: python/asthma-primary-care-managemt---primary.py
+inputModule138:
+  class: File
+  path: python/asthma-primary-care-managmt---primary.py
+inputModule139:
+  class: File
+  path: python/absent-asthma-primary-care---primary.py
+inputModule140:
+  class: File
+  path: python/asthma-primary-care-health---primary.py
+inputModule141:
+  class: File
+  path: python/asthma-primary-care-writt---primary.py
+inputModule142:
+  class: File
+  path: python/clinic-asthma-primary-care---primary.py
+inputModule143:
+  class: File
+  path: python/asthma-primary-care-spclst---primary.py
+inputModule144:
+  class: File
+  path: python/asthma-primary-care-letter---primary.py
+inputModule145:
+  class: File
+  path: python/asthma-primary-care-invite---primary.py
+inputModule146:
+  class: File
+  path: python/asthma-primary-care-chron---primary.py
+inputModule147:
+  class: File
+  path: python/asthma-primary-care-lateonset---primary.py
+inputModule148:
+  class: File
+  path: python/asthma-primary-care-overlap---primary.py
+inputModule149:
+  class: File
+  path: python/asthma-primary-care-antiasthmatics---primary.py
+inputModule150:
+  class: File
+  path: python/output-cases.py
